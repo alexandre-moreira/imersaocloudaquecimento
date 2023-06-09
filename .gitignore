@@ -8,3 +8,4 @@ live4-kubernetes-cloud/app_init.supervisord.conf
 live4-kubernetes-cloud/tcb-vote/config_file.cfg
 live4-kubernetes-cloud/sshd_config
 live4-kubernetes-cloud/tcb-vote/.DS_Store
+live4-kubernetes-cloud/tcb-vote/static/.DS_Store
